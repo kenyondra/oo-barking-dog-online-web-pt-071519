@@ -9,9 +9,9 @@ class Dog
   end
 end
   
-#def bark
- # puts "woof!"
-#end
+def bark
+  puts "woof!"
+end
 
   
 fido = Dog.new 
