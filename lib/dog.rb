@@ -9,7 +9,7 @@ class Dog
   end
 end
   
-  def bark
+  def bark(dog_name)
     puts "Woof!"
   end
   
